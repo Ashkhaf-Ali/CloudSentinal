@@ -1,0 +1,8 @@
+{
+  "name": "CloudSentinel — Cloud Cost Intelligence & Early Warning",
+  "description": "Predictive cloud cost intelligence, forecasting, anomaly detection, budget risk estimation, and AI finOps advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
